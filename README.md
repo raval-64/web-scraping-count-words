@@ -5,7 +5,7 @@ The script will accept two parameters. One URL and another a list of words. It w
 ### Installation and setup:
 
 * Navigate to a directory of choice on terminal. 
-* clone the project using git clone `git clone https://github.com/raval-64/web-scraping-count-words.git` 
-* setup environment and install dependencies using `npm install`
-* then run command `node script.js --url=https://anatta.io --words=Sustainable,Growth,Anatta`
-    * ``` { anatta: 21, sustainable: 12, growth: 6 } ```
+* Clone project using git clone `git clone https://github.com/raval-64/web-scraping-count-words.git` 
+* Setup environment and install dependencies using `npm install`
+* Then run command `node script.js --url=https://anatta.io --words=Sustainable,Growth,Anatta`
+    * Out will look like ``` { anatta: 21, sustainable: 12, growth: 6 } ```
