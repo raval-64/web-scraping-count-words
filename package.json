@@ -1,0 +1,23 @@
+{
+  "name": "web-scraping-count-words",
+  "version": "1.0.0",
+  "description": "The script will accept two parameters. One URL and another a list of words. It will crawl the page in the URL and print how many times the given words are present on the page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raval-64/web-scraping-count-words.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raval-64/web-scraping-count-words/issues"
+  },
+  "homepage": "https://github.com/raval-64/web-scraping-count-words#readme",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "yargs": "^17.2.1"
+  }
+}
